@@ -1,0 +1,11 @@
+# 가상환경 & 캐시 파일 무시
+venv310/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# 시스템 파일 무시
+.DS_Store
+desktop.ini
+sample.mp4
